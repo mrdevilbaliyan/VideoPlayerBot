@@ -62,7 +62,7 @@ endstream - Stop Streaming & Left VC
 
 ## Self Host
 ```sh
-$ git clone -b main https://github.com/AsmSafone/VideoPlayerBot
+$ git clone -b main https://github.com/mrdevilbaliyan/VideoPlayerBot
 $ cd VideoPlayerBot
 $ sudo apt-get install python3-pip ffmpeg
 $ pip3 install -U pip
